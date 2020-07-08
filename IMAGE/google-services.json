@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135693135171",
+    "firebase_url": "https://tecorb-f108b.firebaseio.com",
+    "project_id": "tecorb-f108b",
+    "storage_bucket": "tecorb-f108b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135693135171:android:00ce6bb3d5418c6f6713f6",
+        "android_client_info": {
+          "package_name": "com.tecorb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135693135171-e44is1quija50qm05j12hgtdpr9tbmfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tecorb",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "135693135171-iaa345o11khl8im63n15g67agc45a92f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwKIS_8fp_4_r-F4HMCbNjWqZBNlZIEe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135693135171-iaa345o11khl8im63n15g67agc45a92f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
